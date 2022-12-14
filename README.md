@@ -22,3 +22,10 @@
 - 👯 I’m looking to collaborate on any data engineer or data analytics project
 - 📫 Feel free to send me an email: ma.tarantino@hotmail.com
 - ⚡ Fun fact: I am from Argentina, but I travelled around the world for many years. I lived in Ireland for 1 year and in New Zealand for 3 years.
+
+You can also find me on:
+<p>
+  <a href="https://www.linkedin.com/in/martha-alejandra-tarantino/" rel="nofollow noreferrer">
+    <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
+</p>
+![Linkedin](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
