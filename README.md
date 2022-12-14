@@ -8,9 +8,9 @@
 - 📊 Power BI for Business Intelligence/Data Viz
 
 Other technologies that I worked with:
-✅ Hadoop + Hive
-✅ Docker 
-✅ Airflow
+* ✅ Hadoop + Hive
+* ✅ Docker 
+* ✅ Airflow
 
 About me:
 - 💻 I did a few courses related to web development, so you will see some frontend and backend projects here. Then I discover the word Data and was a one-way road. 
