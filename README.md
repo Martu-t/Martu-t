@@ -1,18 +1,19 @@
-### Hi there 👋 I´m Martu and I enjoy unlocking new skills.
+## Hi there 👋
 
-✨ _My_Stack_ ✨ 
+### I´m Martu and I enjoy unlocking new skills.
+#### ✨ _My_Stack_ ✨ 
 
 - 🐍 Python and their endless libraries. The one I use more is Pandas 🐼 For..Everything 
 - 💾  SQL, as never gets too old 😜
 - ☕ Java for backend and APIs 
 - 📊 Power BI for Business Intelligence/Data Viz
 
-Other technologies that I worked with:
+##### Other technologies that I worked with:
 * ✅ Hadoop + Hive
 * ✅ Docker 
 * ✅ Airflow
 
-About me:
+#### About me:
 - 💻 I did a few courses related to web development, so you will see some frontend and backend projects here. Then I discover the word Data and was a one-way road. 
 - 🎓 I finished a Bootcamp in Data Science, where I learn a little bit about statistics, machine learning models and pipelines.
 - 🔧 I worked with ETL, pipelines, data cleaning and visualization.
