@@ -28,4 +28,4 @@ You can also find me on:
   <a href="https://www.linkedin.com/in/martha-alejandra-tarantino/" rel="nofollow noreferrer">
     <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
 </p>
-![Linkedin](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
+
