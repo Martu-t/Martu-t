@@ -21,7 +21,7 @@
 - 🌱 I’m currently learning Spark
 - 👯 I’m looking to collaborate on any data engineer or data analytics project
 - 📫 Feel free to send me an email: ma.tarantino@hotmail.com
-- ⚡ Fun fact: I am from Argentina, but I travelled around the world for many years. I lived in Ireland for 1 year and in New Zealand for 3 years.
+- ⚡ Fun fact: I am from Argentina, but I travelled around the world for many years. I lived in Ireland for 1 year, in New Zealand for 3 years and currently I am located in Spain.
 
 You can also find me on:
 <p>
